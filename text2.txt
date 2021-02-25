@@ -1,1 +1,9 @@
 This an essay I started working on. It is not completed yet.
+
+** Electric public vehicles in city transportation grid
+
+Trams and trolley-buses are primary examples of electric vehibles 
+used in city public transportation. 
+Monorails, city trains, cable cars are also used throught the megapolises 
+of the world. 
+

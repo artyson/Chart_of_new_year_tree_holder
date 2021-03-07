@@ -1,0 +1,4 @@
+This is text5.txt.
+Change it at your discretion. 
+This file is here only to force you to fetch it and integrate in your "master" branch.
+Use "git merge" of "git rebase" approach to intergrate remote commits like this one. 
